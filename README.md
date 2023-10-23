@@ -24,13 +24,6 @@ I'm passionate about a wide range of topics, including:
 - 🎶 Music
 - 🌱 Learning new things
 
-## Connect with Me
-
-You can find me on various platforms:
-
-- 📘 Facebook: [Maruf OVi](https://www.facebook.com/yovi.11/)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/iamov1/)
-
 
 <!---
 iamovi/iamovi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
