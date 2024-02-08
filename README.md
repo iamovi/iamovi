@@ -1,4 +1,4 @@
-```
+```javascript
 import { Name } from 'AwesomeDeveloper';
 import { Skills, Interests, Passion } from 'CodingWorld';
 
