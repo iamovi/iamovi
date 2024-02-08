@@ -10,9 +10,8 @@ const bio = {
   skills: ['JavaScript', 'React', 'Node.js', 'Express', 'MongoDB', 'HTML', 'CSS'],
   interests: ['Web development', 'AI', 'Game development', 'Blockchain'],
   social: {
-    twitter: '@YourTwitterHandle',
-    github: 'YourGitHubUsername',
-    website: 'YourPortfolioWebsite',
+    github: 'github.com/iamovi',
+    website: 'oviportfo.netlify.app',
   },
   sayHello: () => {
     console.log('Hello World! 🌟 Let\'s build something amazing!');
