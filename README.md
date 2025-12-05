@@ -3,10 +3,10 @@ import { Name } from 'AwesomeDeveloper';
 import { Skills, Interests, Passion } from 'CodingWorld';
 
 const bio = {
-  name: 'Hasan_OVi',
+  name: 'Ovi_ren',
   location: 'Dhaka',
   profession: 'Programmer & others',
-  skills: ['JavaScript', 'React', 'Node.js', 'Express', 'MongoDB', 'HTML', 'CSS'],
+  skills: ['JavaScript', 'React', 'Node.js', 'Express', 'MongoDB'],
   social: {
     website: 'iamovi.github.io',
   },
