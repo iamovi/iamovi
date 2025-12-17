@@ -1,3 +1,4 @@
+<img src="./yo.jpg" width="200" /><br>
 Hi,<br>
 I'm Ovi Ren.<br>
 I write code.<br>
