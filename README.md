@@ -1,6 +1,11 @@
 <img src="./hmm.jpg" width="200" /><br>
-Hi,<br>
-I'm Ovi Ren.<br>
-I write code.<br>
-This is README.md,<br>
-and that's it lol.<br>
+**Hi,**
+I'm Ovi Ren.
+
+I write code.
+
+This is README.md.
+
+You're still reading this.
+
+Impressive, you can check my repos now!
