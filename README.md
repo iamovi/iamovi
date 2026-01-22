@@ -1,11 +1,7 @@
 <img src="./hmm.jpg" width="200" /><br>
-**Hi,**
-I'm Ovi Ren.
-
-I write code.
-
-This is README.md.
-
-You're still reading this.
-
-Impressive, you can check my repos now!
+**hi,**
+i'm Ovi Ren.
+i write scripts.
+writing all lowercase letters is my habit.
+you're still reading this.
+impressive, you can check my repos now!
