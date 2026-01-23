@@ -2,18 +2,25 @@ import { Name } from 'AwesomeDeveloper';
 import { Skills, Interests, Passion } from 'CodingWorld';
 
 const bio = {
-  name: 'Maruf_OVi',
-  location: 'your_heart 🌍',
-  profession: 'Full_Stack_Developer',
-  about: 'Kool dev, Coading with a cup of tea ☕',
-  skills: ['JavaScript', 'React', 'Node.js', 'Express', 'MongoDB', 'HTML', 'CSS'],
-  interests: ['Web development', 'AI', 'Game development', 'Blockchain'],
+  name: 'Ovi_ren',
+  location: 'dhaka',
+  profession: 'web_programmer',
+  about: "i'm a writer. i write scripts.",
+  skills: [
+    'nodejs',
+    'python',
+    'linux',
+    'language_explorer',
+    'mongodb',
+    'git',
+    'problem_solver_through_internet'
+  ],
   social: {
-    github: 'github.com/iamovi',
-    website: 'oviportfo.netlify.app',
+    github: 'https://github.com/iamovi',
+    website: 'https://iamovi.github.io',
   },
-  sayHello: () => {
-    console.log('Hello World! 🌟 Let\'s build something amazing!');
+  sayBye: () => {
+    console.log('bye universe!');
   },
 };
 
