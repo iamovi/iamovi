@@ -1,2 +1,2 @@
-<img src="assets/peter_familyguy.jpg" width="200" /><br>
-**hi,** i'm Ovi ren. i'm a writer, i write scripts. writing all lowercase letters is my habit. you're still reading this. impressive, you can check my repos now :D
+<img src="assets/main.jpg" width="200" /><br>
+**hi,** i'm Ovi ren. an idle guy who likes creating stuff. writing all lowercase letters is my habit. you're still reading this. impressive, you can check my repos now :D
