@@ -1,2 +1,3 @@
 <img src="assets/main.jpg" width="200" /><br>
-**hi,** i'm Ovi ren. an idle guy who likes creating stuff. writing all lowercase letters is my habit. you're still reading this. impressive, you can check my repos now :D
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&width=600&lines=hi%2C+i'm+ovi+ren.;an+idle+guy+who+likes+creating+stuff.;writing+all+lowercase+is+my+habit.;you're+still+reading+this.;impressive+%3AD)](https://git.io/typing-svg)
