@@ -1,0 +1,3 @@
+![Space Shooter](game.gif)
+
+add this line to readme, if i need game gif!
