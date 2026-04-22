@@ -1,4 +1,4 @@
-<img src="./amongus.png" width="220" />
+### `> whoami?`
 
 **hi, this is Ovi ren,**
 
