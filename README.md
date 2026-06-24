@@ -1,6 +1,6 @@
 ### `> whoami?`
 
-**hi, this is Ovi ren,**
+**hi, this is Hasan Ovi,**
 
 **i'm a hobby programmer, but i create real world projects which is fun and useful,**
 
